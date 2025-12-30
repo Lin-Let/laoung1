@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(229, 189, 208);
+}
+
+#D1 {
+    margin-left: 100px;
+    margin-right: 300px;
+}
+
+#d1 {
+    margin-top: 20px;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: black;
+}
+
